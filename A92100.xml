@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Roberts declaration. To the Kings most Excellent Majesty, October 11. 1642. Declaring his resolution to leave the Kings army here in England, and with all expedition to go for Holland, having seriously considered of the present differences betwixt His Majesty and his two Houses of Parliament. Also the proceedings of the Lord Willoughby of Parham, and Sir William Balfoure, who have joyned their forces with his Excellency. With the proceedings of both armies neer Shrewsbury, from the 8. of October to the 13.</title>
+            <title>Declaratie van Prins Robert. English.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92100</idno>
+            <idno type="STC">Wing R2296</idno>
+            <idno type="STC">Thomason E121_46</idno>
+            <idno type="STC">ESTC R20629</idno>
+            <idno type="EEBO-CITATION">99865463</idno>
+            <idno type="PROQUEST">99865463</idno>
+            <idno type="VID">117704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117704)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Roberts declaration. To the Kings most Excellent Majesty, October 11. 1642. Declaring his resolution to leave the Kings army here in England, and with all expedition to go for Holland, having seriously considered of the present differences betwixt His Majesty and his two Houses of Parliament. Also the proceedings of the Lord Willoughby of Parham, and Sir William Balfoure, who have joyned their forces with his Excellency. With the proceedings of both armies neer Shrewsbury, from the 8. of October to the 13.</title>
+                  <title>Declaratie van Prins Robert. English.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Thompson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 13. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Balfour, William, --  Sir, d. 1660.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Willoughby of Parham, Francis Willoughby, --  Baron, 1613?-1666.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117704:1"/>
+            <pb facs="tcp:117704:1" rendition="simple:additions"/>
+            <p>PRINCE ROBERTS DECLARATION. TO The KINGS moſt Excellent Majeſty, October 11. 1642.
+<hi>DECLARING</hi> His Reſolution to leave the Kings Army here in <hi>England,</hi> and with all
+expedition to go for <hi>Holland,</hi> having ſeriouſly conſidered of the preſent
+differen<g ref="char:EOLhyphen"/>ces betwixt His Majeſty and his two Houſes of Parliament. <hi>ALSO The proceedings of
+the</hi> Lord Willoughby of Parham, <hi>and</hi> Sir William Balfoure, <hi>who have joyned their
+Forces with his Excellency.</hi> With the Proceedings of both Armies neer <hi>Shrewſ<g ref="char:EOLhyphen"/>bury,</hi>
+from the 8. of October to the 13.</p>
+            <p>
+               <hi>LONDON, Printed for</hi> Th. Tompſon. <hi>October</hi> 13. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117704:2"/>
+            <pb n="1" facs="tcp:117704:2"/>
+            <head>PRINCE ROBERTS Declaration to the KINGS moſt excellent Majeſty, <hi>Octob.</hi> 11. 1642.</head>
+            <argument>
+               <p>Declaring his Reſolution to leave His Majeſties Army here in <hi>England,</hi> and with all
+expedition to go into <hi>Helland,</hi> having ſeriouſly conſidered of the preſent
+differences between His Majeſty and His two Houſes of Parliament. Alſo the proceedings of
+both Armies neere <hi>Shrews<g ref="char:EOLhyphen"/>bury</hi> from the <hi>8.</hi> of October to the <hi>13.</hi>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">U</seg>Pon the 11. day of this moneth Prince Robert began to declare his Reſolution to the Kings
+moſt excellent Majeſty, and the reſt of the Nobles that are now attend<g ref="char:EOLhyphen"/>ing upon his royall
+Perſon, which was to this effect: That he had information by Letters from Holland, that his
+roy<g ref="char:EOLhyphen"/>all
+<pb n="2" facs="tcp:117704:3"/>much diſcontented and troubled in mind for his
+reſidence <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very deſirous that, hee ſhould
+take his leave of his royall Uncle, the King of England, and to come to the Hague in Holland,
+whereby ſhe might impart her minde unto him: he being willing to fulfil his Mothers deſires,
+and ſorry for his firſt coming over, declared his reſolution to His Majeſty, that hee was
+now reſolved to leave England, deſi<g ref="char:EOLhyphen"/>ring His Majeſty not to be diſpleaſed thereat; and
+that according to the ut<g ref="char:EOLhyphen"/>moſt of his power, he would endeavour to ſend over ſuch able
+Commanders as ſhould finiſh what he had begun.</p>
+            <p>His Excellency the Earle of Eſſer having left a ſtrong gariſon at Worceſter and all
+other places which he thought might prove prejudiciall to his Army, if that the malignant Party
+ſhould take them into their poſſeſsion, and having ſecvred theſe places, hee, advanced
+with his whole Army towards Shrowsbury,
+<pb n="3" facs="tcp:117704:3"/>where the Kings Majeſty hath ſet down his
+reſolution to meet wich his Excel<g ref="char:EOLhyphen"/>lency and his whole Army: but the weather being ſomwhat
+vehement, in<g ref="char:EOLhyphen"/>ſomuch as his Excellency could not march with his whole army faſt enough towards
+Shrewsbury, therefore hee ſent Colonell Hollis, Colonell Hamp<g ref="char:EOLhyphen"/>den, and divers other Officers with
+three thouſand horſe and Foot before, by rea<g ref="char:EOLhyphen"/>ſon of the information which he had newly
+received, that ſome of the Parlia<g ref="char:EOLhyphen"/>ments Forces that lay neere unto the ſaid towne of Shrewsbury
+were in great di<g ref="char:EOLhyphen"/>ſtreſſe, becauſe the Kings Army were al<g ref="char:EOLhyphen"/>moſt gathered to a head, and lay
+within five miles of the ſaid towne, and there<g ref="char:EOLhyphen"/>fore expected they ſhould ſuddenly have a
+battell with them, and not being able to encounter with them, becauſe the Ca<g ref="char:EOLhyphen"/>valiers did far
+exceed them in number, therefore forth with they diſpatched Let<g ref="char:EOLhyphen"/>ters to the Lord Generall,
+deſiring ſpeedy aid from his Excellency, and according
+<pb n="4" facs="tcp:117704:4"/>to their deſires, he ſent the aforenamed
+Eosses, which no ſooner arrived there, but immediately they had a battell with the Cavaliers,
+being in number about ſeven thouſand Horſe and Foer, which were under the command of the
+Earle of Lindſey, and the Earle of Weſtmer<g ref="char:EOLhyphen"/>land, and our Forces were not above four thouſand
+at the moſt: having joy<g ref="char:EOLhyphen"/>ned themſelves in battell with the ene<g ref="char:EOLhyphen"/>my, continuing for the ſpace
+of three houres, the enemy retreated with the loſſe of fifty men, and twenty three on our
+ſide.</p>
+            <p>From Bridgnorth there is informati<g ref="char:EOLhyphen"/>on by divers letters that the Lord Wil<g ref="char:EOLhyphen"/>loughby of Parham hath
+joyned his Forces with his Excellency the Earle of Eſſex, and are in their march towards
+Shrewsbury, and by the way they found great oppoſition at Bridgnorth (which is a towne about
+twelve miles diſtant from Shrewbury) by Prince Robert and divers olders of the malignant Party,
+<pb n="5" facs="tcp:117704:4"/>whereupon there ſoone increaſed many dangers,
+and the inveterate malice of the Cavaliers there burſt out, and began to give out many ſcoffing
+ſpeeches againſt our ſouldiers, but they not brooking of ſuch ſcandalous words, deſired
+leave of their Officers to diſcharge againſt them; but at the firſt they ſeemed ſomwhat
+un<g ref="char:EOLhyphen"/>willing, and would not condeſcend thereunto, untill they underſtood the pleaſure of the
+Lord Generall; but after ſome conſultation thereof, they ſell to it pell mell, and in the
+ſpace of five hours ſeventy of the Cavaliers were ſlaine, and divers taken priſoners, with
+very little loſſe on our party: wherupon the ene<g ref="char:EOLhyphen"/>my ſounded a parley, and at the ſaid
+par<g ref="char:EOLhyphen"/>ley it was concluded on, that a ſet day ſhould be appointed for the meeting of both
+Armies.</p>
+            <p>There are 340. ſouldiers come out of Herefordſhire to his Excellency for the ſervice of
+the King and Parliament, and that the city of Hereford had ſent to his
+<pb n="6" facs="tcp:117704:5"/>Excellency, ſignifying their good affecti<g ref="char:EOLhyphen"/>on to
+the Parliament, and their deſire to have that city ſecured againſt the Cava<g ref="char:EOLhyphen"/>liers, which they
+much feared would come, there being a malignant party in the city, thoſe that were
+well-affection, durſt not ſhew their forwardneſſe ſo much as they would, whereupon his
+Excellency ſent one thouſand foot, and foure troupes of horſe to diſarme the malignants,
+and to ſettle that City in a good poſture of defence, and likewiſe ordered that a
+ſufficient garriſon ſhould be left there for the ſafety and peace of thoſe parts.</p>
+            <p>Sir William Balfoure is gone to joyne his Forces with the L. Generall, and the Scots Commanders
+that profered their ſervice to the Parliament, are gone to his Excellency and entred into their
+placed</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117704:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
